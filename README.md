@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Data Analyst and Business Analyst with 1+ year of experience in data integration, ETL processes, dashboard development, and<br>reporting automation. Proficient in Python, SQL, Power BI, and Tableau. Demonstrated ability to translate complex datasets into actionable business insights, optimize reporting pipelines, and drive measurable operational efficiency improvements.
+Results-driven Data Analyst and Business Analyst with 1+ year of experience in data integration, ETL processes, dashboard development, and reporting automation. Proficient in Python, SQL, Power BI, and Tableau. Demonstrated ability to translate complex datasets into actionable business insights, optimize reporting pipelines, and drive measurable operational efficiency improvements.
 
 
 ## 🌐 Socials:
