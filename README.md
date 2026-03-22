@@ -16,7 +16,6 @@
 |---|---|---|
 | 👥 Employee Management App | Python, MySQL | CLI app with RBAC, attendance & payroll |
 | 🔍 DLP Lite Detection System | Python, MySQL, Matplotlib | Anomaly detection across 10,000+ events |
-| 🍔 Food Ordering Platform | Flask, SQLite, HTML/CSS/JS | Full-stack food ordering web app |
 | ✈️ Travel Booking Website | Flask, SQLite, HTML/CSS/JS | Travel packages, hotels & flight booking |
 
 ## 📈 GitHub Stats
