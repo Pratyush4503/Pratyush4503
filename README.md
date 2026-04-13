@@ -23,8 +23,8 @@
 | 🌐 Communication Dashboard | React, Tailwind CSS, JS | Modern responsive communication dashboard UI |
 
 ## 📈 GitHub Stats
-![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyush4503&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush4503&layout=compact&theme=dark)
+![Pratyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratyush4503&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyush4503&layout=compact&theme=dark&cache_seconds=1800)
 
 ## 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratyushp03/)
