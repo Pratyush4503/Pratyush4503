@@ -1,7 +1,7 @@
 # Hi, I'm Pratyush Parashar 👋
 🎓 B.Tech ECE Graduate | Vellore Institute of Technology
-💼 Data Analyst at System Infra Solutions Pvt. Ltd.
-📍 Delhi, India
+💼 Full-Stack Software Dveloper
+📍 India
 
 ## 🔧 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
