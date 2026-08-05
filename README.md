@@ -1,5 +1,4 @@
 # Hi, I'm Pratyush Parashar 👋
-🎓 B.Tech ECE Graduate | Vellore Institute of Technology
 💼 Full-Stack Software Dveloper
 📍 India
 
